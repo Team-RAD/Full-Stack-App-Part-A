@@ -47,3 +47,9 @@ Naruto Run's target audience has two demographics:
 - NodeJS for server runtime
 - Bootstrap4 for UI styling
 - Mongoose for server middleware
+
+### R2 Data Flow Diagram
+
+### R3 - Application Architecture Diagram
+
+![Application Architecture Diagram](docs/ApplicationArchitectureDiagram.png)
