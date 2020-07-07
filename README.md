@@ -47,8 +47,12 @@ Naruto Run's target audience has two demographics:
 - NodeJS for server runtime
 - Bootstrap4 for UI styling
 - Mongoose for server middleware
+- Netlify for front-end hosting
+- Heroku for back-end hosting
 
-### R2 Data Flow Diagram
+### R2 - Data Flow Diagram
+
+![Data Flow Diagram](docs/DataFlowDiagram.png)
 
 ### R3 - Application Architecture Diagram
 
