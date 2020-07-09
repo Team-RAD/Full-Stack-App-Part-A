@@ -4,7 +4,11 @@
 
 Deployed at: DEPLOYED SITE TBC
 
-GitHub Repository: PART B REPO TBC
+#### GitHub Repositories: 
+
+Client: https://github.com/Team-RAD/Naruto_Run_Client
+
+Server: https://github.com/Team-RAD/Naruto_Run_Server
 
 ### R1 - Description of website
 
