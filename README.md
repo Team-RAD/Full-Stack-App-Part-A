@@ -27,8 +27,10 @@ _Solution:_ Naruto Run helps to speed up the process of identifying which area o
 - Create Post Page with Form
 - Edit Post Page with Form
 - Edit and Delete Post Buttons
+- Profile page to display user posts/saved posts
 - Search posts by keyword (SPRINKLE)
-- Comment and rate posts (SPRINKLE)
+- Comment and ask questions on posts (SPRINKLE)
+- Rate a post (SPRINKLE)
 - User profile image upload (SPRINKLE)
 
 #### Target Audience:
