@@ -65,3 +65,9 @@ Naruto Run's target audience has two demographics:
 ![User Stories List](docs/User_Stories.png)
 
 ### R5 - Wireframes
+
+![Wireframes](docs/Wireframes/Landing_Page_V1.1.jpg)
+![Wireframes](docs/Wireframes/Detailed_View_V1.1.jpg)
+![Wireframes](docs/Wireframes/About_Page_V1.1.jpg)
+![Wireframes](docs/Wireframes/Create_Edit_Page_V1.1.jpg)
+![Wireframes](docs/Wireframes/Saved_Post_Page_V1.1.jpg)
