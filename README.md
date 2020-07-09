@@ -59,3 +59,6 @@ Naruto Run's target audience has two demographics:
 ### R3 - Application Architecture Diagram
 
 ![Application Architecture Diagram](docs/ApplicationArchitectureDiagram.png)
+
+### R4 - User Stories
+
