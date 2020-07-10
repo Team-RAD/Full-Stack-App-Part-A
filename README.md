@@ -66,11 +66,19 @@ Naruto Run's target audience has two demographics:
 
 ### R5 - Wireframes
 
+Initial Concept
 ![Wireframes](docs/Wireframes/Landing_Page_V1.1.jpg)
 ![Wireframes](docs/Wireframes/Detailed_View_V1.1.jpg)
 ![Wireframes](docs/Wireframes/About_Page_V1.1.jpg)
 ![Wireframes](docs/Wireframes/Create_Edit_Page_V1.1.jpg)
 ![Wireframes](docs/Wireframes/Saved_Post_Page_V1.1.jpg)
+
+Planning Concept
+![Wireframes](docs/Wireframes/Naruto_Run_Landing_Page_v2.png)
+![Wireframes](docs/Wireframes/Naruto_Run_Detailed_View_Page_v2.png)
+![Wireframes](docs/Wireframes/Naruto_Run_About_Page_v2.png)
+![Wireframes](docs/Wireframes/Naruto_Run_CreateEditPost_Page_v2.png)
+![Wireframes](docs/Wireframes/Naruto_Run_SavedPosts_Page_v2.png)
 
 ### R6 - Trello Pro Management
 
