@@ -102,4 +102,4 @@ Day 4
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Morning_Day_4.png)
 
 Day 5
-![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day_5.png)
+![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day5.png)
