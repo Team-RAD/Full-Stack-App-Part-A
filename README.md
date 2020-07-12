@@ -1,8 +1,10 @@
-# Full Stack App (Part A) - Naruto Run
+# Coder Academy MERN App (Part A) - Naruto Run
 
 ## by Ryan Challen, Adam Hyde & David Johnson (Team RAD)
 
-Deployed at: DEPLOYED SITE TBC
+Client Deployed at: https://naruto-run.netlify.app/
+
+Server Deployed at: HEROKU URL TBC
 
 #### GitHub Repositories:
 
@@ -103,3 +105,6 @@ Day 4
 
 Day 5
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day5.png)
+
+Day 6
+![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day6.png)
