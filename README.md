@@ -72,39 +72,79 @@ Naruto Run's target audience has two demographics:
 
 ### R5 - Wireframes
 
-Initial Concept
+#### Initial Concept
+
+All Posts/Landing Page
 ![Wireframes](docs/Wireframes/Landing_Page_V1.1.jpg)
+Detailed Post View
 ![Wireframes](docs/Wireframes/Detailed_View_V1.1.jpg)
+About Page
 ![Wireframes](docs/Wireframes/About_Page_V1.1.jpg)
+Create/Edit Post Page
 ![Wireframes](docs/Wireframes/Create_Edit_Page_V1.1.jpg)
+Saved Posts/My Posts Page
 ![Wireframes](docs/Wireframes/Saved_Post_Page_V1.1.jpg)
 
-Planning Concept
+#### Planning Concept & Desktop Final
+
+All Posts/Landing Page
 ![Wireframes](docs/Wireframes/Naruto_Run_Landing_Page_v2.png)
+Detailed Post View
 ![Wireframes](docs/Wireframes/Naruto_Run_Detailed_View_Page_v2.png)
+About Page
 ![Wireframes](docs/Wireframes/Naruto_Run_About_Page_v2.png)
+Create/Edit Post Page
 ![Wireframes](docs/Wireframes/Naruto_Run_CreateEditPost_Page_v2.png)
+Saved Posts/My Posts Page
 ![Wireframes](docs/Wireframes/Naruto_Run_SavedPosts_Page_v2.png)
 
-### R6 - Trello Pro Management
+#### Refined Concept & Mobile/Tablet View
+
+##### Mobile
+
+All Posts/Landing Page
+![Wireframes](docs/Wireframes/NR_AllPostsLanding_Mobile.png)
+Detailed Post View
+![Wireframes](docs/Wireframes/NR_Detailed_Post_Mobile.png)
+About Page
+![Wireframes](docs/Wireframes/NR_About_Mobile.png)
+Create/Edit Post Page
+![Wireframes](docs/Wireframes/NR_CreateEdit_Post_Mobile.png)
+Saved Posts/My Posts Page
+![Wireframes](docs/Wireframes/NR_SavedPosts_Mobile.png)
+
+##### Tablet
+
+All Posts/Landing Page
+![Wireframes](docs/Wireframes/NR_AllPostsLanding_Tablet.png)
+Detailed Post View
+![Wireframes](docs/Wireframes/NR_DetailedPost_Tablet.png)
+About Page
+![Wireframes](docs/Wireframes/NR_About_Tablet.png)
+Create/Edit Post Page
+![Wireframes](docs/Wireframes/NR_CreateEdit_Post_Tablet.png)
+Saved Posts/My Posts Page
+![Wireframes](docs/Wireframes/NR_SavedPosts_Tablet.png)
+
+### R6 - Trello Task Management
 
 Initial
 ![Trello Screenshot](docs/Trello/RAD_Trello-Initial_Board_view1.png)
 
-Day 1
+Stage 1
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day_1.png)
 
-Day 2
+Stage 2
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day_2.png)
 
-Day 3
-![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day_3.png)
+Stage 3
+![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Morning_Day_3.png)
 
-Day 4
-![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Morning_Day_4.png)
-
-Day 5
+Stage 4
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day5.png)
 
-Day 6
+Stage 5
 ![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Afternoon_Day6.png)
+
+Stage 6
+![Trello Screenshot](docs/Trello/RAD_Trello-Sprint_Board_Morning_Day7.png)
