@@ -103,6 +103,7 @@ Saved Posts/My Posts Page
 ##### Mobile
 
 All Posts/Landing Page
+
 ![Wireframes](docs/Wireframes/NR_AllPostsLanding_Mobile.png)
 Detailed Post View
 ![Wireframes](docs/Wireframes/NR_Detailed_Post_Mobile.png)
