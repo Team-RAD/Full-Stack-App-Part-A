@@ -105,13 +105,21 @@ Saved Posts/My Posts Page
 All Posts/Landing Page
 
 ![Wireframes](docs/Wireframes/NR_AllPostsLanding_Mobile.png)
+
 Detailed Post View
+
 ![Wireframes](docs/Wireframes/NR_Detailed_Post_Mobile.png)
+
 About Page
+
 ![Wireframes](docs/Wireframes/NR_About_Mobile.png)
+
 Create/Edit Post Page
+
 ![Wireframes](docs/Wireframes/NR_CreateEdit_Post_Mobile.png)
+
 Saved Posts/My Posts Page
+
 ![Wireframes](docs/Wireframes/NR_SavedPosts_Mobile.png)
 
 ##### Tablet
