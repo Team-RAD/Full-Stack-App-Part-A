@@ -4,7 +4,7 @@
 
 Client Deployed at: https://naruto-run.netlify.app/
 
-Server Deployed at: HEROKU URL TBC
+Server Deployed at: https://naruto-run.herokuapp.com/
 
 #### GitHub Repositories:
 
