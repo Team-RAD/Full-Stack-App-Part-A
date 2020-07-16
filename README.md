@@ -2,6 +2,9 @@
 
 ## by Ryan Challen, Adam Hyde & David Johnson (Team RAD)
 
+
+![Naruto Run concept](docs/naruto_concept.png)
+
 Client Deployed at: https://naruto-run.netlify.app/
 
 Server Deployed at: https://naruto-run.herokuapp.com/
@@ -57,6 +60,7 @@ Naruto Run's target audience has two demographics:
 - Mongoose for server middleware
 - Netlify for front-end hosting
 - Heroku for back-end hosting
+- Git for source control
 
 ### R2 - Data Flow Diagram
 
@@ -68,7 +72,7 @@ Naruto Run's target audience has two demographics:
 
 ### R4 - User Stories
 
-![User Stories List](docs/User_Stories.png)
+![User Stories List](docs/User_Stories_Final.png)
 
 ### R5 - Wireframes
 
